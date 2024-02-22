@@ -1,4 +1,6 @@
 Copyright (c) 2009 Satoshi Nakamoto
+satoshinakam0t0@duck.com
+(My character and central and main idea written in C language that my friend Dave Kleiman managed and launched the idea through various means: sourceforge, metzdowd, P2P foundation and bitcointalk.)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
